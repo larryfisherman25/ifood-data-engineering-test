@@ -1,3 +1,0 @@
-2025-04-14 23:50:53,432 - INFO - Diretório criado: data/raw_files
-2025-04-14 23:50:53,432 - INFO - Iniciando download de: https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet
-2025-04-14 23:50:57,523 - INFO - Download concluído: data/raw_files/yellow_tripdata_2023-01.parquet
