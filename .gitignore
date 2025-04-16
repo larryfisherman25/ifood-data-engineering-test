@@ -66,3 +66,5 @@ terraform.rc
 # Data files
 src/etl/data/*
 data/*
+# checkpoints
+analysis/.*
